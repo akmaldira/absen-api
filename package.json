@@ -1,0 +1,17 @@
+{
+  "name": "absen-api",
+  "version": "1.0.0",
+  "description": "Absen-USK API",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0"
+  },
+  "dependencies": {}
+}
